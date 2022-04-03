@@ -6,7 +6,7 @@ My website: Soon
 
 
 
-My osu server: osu.zbancho.ml
+My osu server: zbancho.ml
 <p align="center">
   Steam Profile:
   <a href=""><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
