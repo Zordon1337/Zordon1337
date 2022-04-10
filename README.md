@@ -2,11 +2,14 @@
 Hello i'm 12 years old developer from Poland and i have some hobbies like: fixing phones, playing osu(too much), developing apps
 
 
-My website: Soon
+My website: https://Azordon.cf
 
 
 
-My osu server: zbancho.ml
+My osu server: https://zbancho.ml (note: server is not 24/7)
+
+
+My Forum: http://forum-zordon.serv.nu:9999/ (note: forum is not 24/7)
 <p align="center">
   Steam Profile:
   <a href=""><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
