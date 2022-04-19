@@ -10,6 +10,11 @@ My osu server: https://zbancho.ml (note: server is not 24/7)
 
 
 My Forum: http://forum-zordon.serv.nu:9999/ (note: forum is not 24/7)
+
+
+#Contact with me
+mail: contact@azordon.cf
+discord: bobux#2208
 <p align="center">
   Steam Profile:
   <a href=""><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
