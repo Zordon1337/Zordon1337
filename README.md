@@ -30,7 +30,7 @@ My Forum: http://forum-zordon.serv.nu:9999/ (note: forum is not 24/7) - R.I.P 29
   
   
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zordon1337&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zordon1337&show_icons=true&theme=Gradient" />
   </p>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zordon1337&layout=compact" />
