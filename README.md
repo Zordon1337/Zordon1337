@@ -33,10 +33,8 @@ My Forum: http://Zforum.gq
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zordon1337&show_icons=true&theme=dark" />
    </p> 
-   <p align="center">
-  <img src="https://ionicabizau.github.io/github-profile-languages/api.html?Zordon1337" />
-  </p>
-  
+ 
+  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Zordon1337" frameborder="0"></iframe>
   
  
 </p>
