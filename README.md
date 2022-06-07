@@ -34,7 +34,7 @@ My Forum: http://Zforum.gq
   <img src="https://github-readme-stats.vercel.app/api?username=Zordon1337&show_icons=true&theme=dark" />
    </p> 
    <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zordon1337&theme=tokyo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zordon1337&theme=dark" />
   </p>
   
   
