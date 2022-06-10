@@ -10,8 +10,7 @@ My website: https://Azordon.cf
 My osu server: https://zbancho.ml (note: server is not 24/7) - R.I.P 29.04.2022
 
 
-My Forum: http://Zforum.gq
-
+My Forum: http://forum.azordon.cf
 
 <h3 align="center">Contact with me</h3>      
 <p align="center">Discord: Bobux#2208<p>
