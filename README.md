@@ -21,11 +21,14 @@ My Forum: http://forum.azordon.cf
   <a href="https://steamcommunity.com/id/1337nei"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 </p>
 
-<h3 align="center">Languages I've worked with</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=c++&logoColor=pink" alt="c++">
+<h3 align="center">Languages that i know</h3>
+```
+
+  HTML
+  Python (Basics)
+  C++ (basics, still learning)
+  php (i don't know even anything, still learning)
+```
   
   
   
