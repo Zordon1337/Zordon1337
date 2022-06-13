@@ -22,13 +22,10 @@ My Forum: http://forum.azordon.cf
 </p>
 
 <h3 align="center">Languages that i know</h3>
-```
-
-  HTML
-  Python (Basics)
-  C++ (basics, still learning)
-  php (i don't know even anything, still learning)
-```
+<p align="center">HTML<p>
+<p align="center">Python (Basics)<p>
+<p align="center">C++ (basics, still learning)<p>
+<p align="center">php (i don't know even anything, still learning)<p>
   
   
   
