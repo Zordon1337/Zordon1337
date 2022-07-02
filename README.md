@@ -31,6 +31,7 @@ My Forum: http://forum.azordon.cf
   
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zordon1337&show_icons=true&theme=dark" />
+  <img src="https://github.com/Zordon1337/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
    </p> 
 
   
