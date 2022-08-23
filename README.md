@@ -1,7 +1,7 @@
 ![Bez tytułu](https://user-images.githubusercontent.com/65111609/161431106-28575ba2-172e-42c5-86ed-1fc19bb89d3c.png)
 Hello i'm 13 years old developer from Poland and i have some hobbies like: fixing phones, developing apps
 
-little note: i will work more on my project on holiday. because i will have more time for writing new programs and fixing other 
+
 
 My website: https://Azordon.cf
 
