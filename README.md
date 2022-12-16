@@ -3,7 +3,7 @@ Hello i'm 13 years old developer from Poland and i have some hobbies like: fixin
 
 
 
-My website: https://Azordon.cf
+My website: https://zndev.pl (only in polish unfortunately)
 
 
 
@@ -13,8 +13,7 @@ My osu server: https://zbancho.ml (note: server is not 24/7) - R.I.P 29.04.2022
 My Forum: http://forum.azordon.cf
 
 <h3 align="center">Contact with me</h3>      
-<p align="center">Discord: Bobux#2208<p>
-<p align="center">Mail: contact@azordon.cf<p>
+<p align="center">Mail: kontakt@zndev.pl<p>
 
 <p align="center">
   <h3 align="center">You can find me here</h3>
