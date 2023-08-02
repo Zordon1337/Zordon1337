@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zordon(Alex)</h1>
-<h3 align="center">A 13 Years old developer from Poland</h3>
+<h3 align="center">A 14 Years old developer from Poland</h3>
 
 
 - 🌱 I’m currently learning **Java, Typescript and Node.js**
