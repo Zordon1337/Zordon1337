@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://Github.com/Zordon1337](https://Github.com/Zordon1337)
 
-- 📫 How to reach me **contact@zndev.xyz**
+- 📫 How to reach me <a href="https://t.me/TZordon">Telegram</a>
 
 - ⚡ Fun fact **i love game hacking**
 
