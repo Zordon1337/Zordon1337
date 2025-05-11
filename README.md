@@ -1,14 +1,8 @@
-<h1 align="center">Hi 👋, I'm Zordon(Alex)</h1>
-<h3 align="center">A 15 Years old developer from Poland</h3>
+<h1 align="center">Hi 👋, I'm ZRD(Alex)</h1>
  
-
-- 🌱 I’m currently learning **Java, Typescript and Node.js**
-
-- 👨‍💻 All of my projects are available at [https://Github.com/Zordon1337](https://Github.com/Zordon1337) 
+- 🌱 I’m currently learning **Reverse Engineering**
 
 - 📫 How to reach me <a href="https://t.me/TZordon">Telegram</a>
-
-- ⚡ Fun fact **i love game hacking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
