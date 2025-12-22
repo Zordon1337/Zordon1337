@@ -1,17 +1,33 @@
-<h1 align="center">Hi 👋, I'm ZRD(Alex)</h1>
+<h1 align="center">Hi there! I'm Alex 👋</h1>
+
+I reverse engineer games and applications, mostly focusing on backend reconstruction, tooling, and game internals. I enjoy breaking things apart to understand how they actually work.
+
+### Languages i know
+  - Main: C++, C#, Basic Assembly
+  - Side: Lua, JavaScript, SQL, HTML5/CSS3, Sourcepawn
+  - Legacy: Go, Python, PHP
+
+### Other knowledge
+  - Source Engine
+  - Some GoldSrc Engine
+
+### Currently exploring
+  - UE4 RE
+  - IL2CPP RE
+  - Mobile Hacking
+
+### Honorable Projects
+ - <a>CSGOLegacy</a> - Currently Private, Almost full replacement for CSGO "Service" including, Own Game Coordinator, Sourcepawn plugin for syncing stats, case drops, xp updates etc. Successor to <a href="https://github.com/Zordon1337/csgo-local">CSGOLocal</a>
+ - <a href="https://github.com/Zordon1337/csgo-local">CSGOLocal</a> - Offline MM emulation via GC packet interception. Supports most of the game builds (2015–2023), ranks, XP, cases, stattrack skins. 
+ - <a href="https://github.com/Zordon1337/Hexium">Hexium</a> - Internal cheat for Hexis with timewarp, replay bot, server switcher. Built with MinHook + ImGui.
+ - <a href="https://github.com/Zordon1337/ZrdRoyale">ZrdRoyale</a> - Fork of RetroRoyale which fixes multiple bugs and adds couple of new features, currently my most popular repo</a>
+ - <a href="https://github.com/Zordon1337/legacyhook">LegacyHook</a> - Open-source internal cheat for 2014 CS:GO builds.
+ - <a href="https://github.com/SJ2Revive">SJ2Revive</a> - Defunct modding project for Symulator Jazdy 2. My first serious project. You will find it on archive.org under: sj2r.zndev.pl, sj2r.zndev.xyz, sj2revive.top
+ - <a href="https://github.com/SLS-And-ICS-Modding">SLS-And-ICS-Modding</a> - Defunct modding project. Most known mods: Mod Menu for Streamer Life Sim, CO-OP Mod for Internet Cafe Simulator
+ - I Haven't mentioned much projects, i skipped those that are either private, incomplete or i just think that they are bad from current perspective
  
-- 🌱 I’m currently learning **Reverse Engineering**
 
-- 📫 How to reach me <a href="https://t.me/TZordon">Telegram</a>
+### Contact me
+ - <a href="https://t.me/TZordon">Telegram</a>
+ - <a href="mailto:zrd@zrd.ovh">Mail</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCr5BqK36fL0dx_OFHN0xNuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zordon" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zordon1337&show_icons=true&locale=en&layout=compact" alt="zordon1337" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zordon1337&" alt="zordon1337" /></p>
