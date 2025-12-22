@@ -31,3 +31,4 @@ I reverse engineer games and applications, mostly focusing on backend reconstruc
  - <a href="https://t.me/TZordon">Telegram</a>
  - <a href="mailto:zrd@zrd.ovh">Mail</a>
 
+PS: On 22.12.2025, I made most of my old/incomplete repos private and rewrote this readme
