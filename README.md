@@ -2,19 +2,10 @@
 
 I reverse engineer games and applications, mostly focusing on backend reconstruction, tooling, and game internals. I enjoy breaking things apart to understand how they actually work.
 
-### Languages i know
+### Languages i know/use/used
   - Main: C++, C#, Basic Assembly
-  - Side: Lua, JavaScript, SQL, HTML5/CSS3, Sourcepawn
-  - Legacy: Go, Python, PHP
-
-### Other knowledge
-  - Source Engine
-  - Some GoldSrc Engine
-
-### Currently exploring
-  - UE4 RE
-  - IL2CPP RE
-  - Mobile Hacking
+  - Barely using: Lua, JavaScript, SQL, HTML5/CSS3, Sourcepawn
+  - No Longer using: Go, Python, PHP
 
 ### Honorable Projects
  - <a>CSGOLegacy</a> - Currently Private, Almost full replacement for CSGO "Service" including, Own Game Coordinator, Sourcepawn plugin for syncing stats, case drops, xp updates etc. Successor to <a href="https://github.com/Zordon1337/csgo-local">CSGOLocal</a>
