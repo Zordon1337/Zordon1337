@@ -13,7 +13,6 @@ I reverse engineer games and applications, mostly focusing on backend reconstruc
  - <a href="https://github.com/Zordon1337/ZrdRoyale">ZrdRoyale</a> - Fork of RetroRoyale which fixes multiple bugs and adds couple of new features, currently my most popular repo</a>
  - <a href="https://github.com/SJ2Revive">SJ2Revive</a> - Defunct modding project for Symulator Jazdy 2. My first serious project. You will find it on archive.org under: sj2r.zndev.pl, sj2r.zndev.xyz, sj2revive.top
  - <a href="https://github.com/SLS-And-ICS-Modding">SLS-And-ICS-Modding</a> - Defunct modding project. Most known mods: Mod Menu for Streamer Life Sim, CO-OP Mod for Internet Cafe Simulator
- - I Haven't mentioned much projects, i skipped those that are either private, incomplete or i just think that they are bad from current perspective
  
 
 ### Contact me
